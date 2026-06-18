@@ -16,7 +16,7 @@ class Player {
     }
 }
 
-public class GameSystem {
+public class Main {
     public static void main(String[] args) {
 
         // Creating player objects
